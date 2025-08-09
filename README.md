@@ -45,8 +45,7 @@ A comprehensive collection of bash scripts for security and system administratio
 
 ### Quick Install
 ```bash
-git clone <repository-url>
-cd security-scripts
+git clone https://github.com/AlphaC137/Security-Utility-Scripts-Collection
 chmod +x install.sh
 ./install.sh
 ```
